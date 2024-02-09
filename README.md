@@ -1,1 +1,2 @@
 # FirstPorjectCommit
+Learning git
